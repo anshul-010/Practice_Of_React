@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "Anshul",
+      "age": 21,
+      "rollno": 231,
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU"
+    },
+    {
+      "name": "Vikash",
+      "age": 31,
+      "rollno": 21,
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU"
+    },
+    {
+      "name": "Akash",
+      "age": 24,
+      "rollno": 23,
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU"
+    },
+    {
+      "name": "Akshya",
+      "age": 26,
+      "rollno": 711,
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU"
+    },
+    {
+      "name": "Neeraj",
+      "age": "45",
+      "rollno": "30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU",
+      "id": 5
+    },
+    {
+      "name": "kbslk",
+      "age": "45",
+      "rollno": "100",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "zoya",
+      "age": "20",
+      "rollno": "201",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpkbIzft6AoU7bxC3DkwJ5LWhhPvnOEIGtw&usqp=CAU",
+      "id": 7
+    },
+    {
+      "name": "Anusha",
+      "age": "23",
+      "rollno": "36",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpkbIzft6AoU7bxC3DkwJ5LWhhPvnOEIGtw&usqp=CAU",
+      "id": 8
+    },
+    {
+      "name": "Anshul",
+      "age": "27",
+      "rollno": "56",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU",
+      "id": 9
+    }
+  ]
+}
